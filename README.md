@@ -1,1 +1,3 @@
-# Neural_Data_Science
+---
+title: Neural Data Science 2024
+---
